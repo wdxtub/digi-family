@@ -10,5 +10,25 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+*.py[cod]
+*$py.class
+
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+__pycache__
+
+dist/
+
+*.egg-info/
+*.egg
+*.txt
+*.zip
+*.csv
+wdxnlp/archive
+
+.vscode/
+wdxnlp/__pycache__
+wdxnlp/data
+wdxstock/__pycache__
+wdxstock/data
