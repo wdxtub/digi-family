@@ -20,6 +20,8 @@ __pycache__
 
 dist/
 
+blog-tools/data
+
 *.egg-info/
 *.egg
 *.txt
